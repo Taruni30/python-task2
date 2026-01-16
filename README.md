@@ -1,2 +1,3 @@
 # python-task2
 Task 2 : Datatypes python program code
+The script demonstrates the use of different Python data types such as integers, floats, strings, and booleans, along with printing their types using the type() function. It performs basic arithmetic operations, shows type conversion from strings to integers and floats, handles invalid input using exception handling, and properly concatenates strings with numbers. The program also illustrates Python’s dynamic typing by reassigning variables with different data types during runtime. Overall, this task helps in understanding how Python manages data, type casting, error handling, and dynamic behavior in a simple and practical way
